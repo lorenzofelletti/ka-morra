@@ -1,0 +1,6 @@
+tensorflow
+numpy
+opendatasets
+matplotlib
+keras
+kaggle
