@@ -4,3 +4,5 @@ opendatasets
 matplotlib
 keras
 kaggle
+pandas
+sklearn
